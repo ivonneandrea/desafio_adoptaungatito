@@ -1,0 +1,29 @@
+#root {
+  margin: 0;
+  text-align: center;
+}
+ 
+ 
+ 
+ .container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 30px;
+
+}
+
+.title{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.cat-card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 18rem;
+  min-width: 18rem;
+}
