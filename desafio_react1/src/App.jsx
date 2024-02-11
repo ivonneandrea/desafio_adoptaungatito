@@ -10,7 +10,7 @@ function App() {
     <>
 
     <section className="header">
-         <Header titulo="Adopta un gatito" />
+         <Header titulo="Adopta un Gatito" />
     </section>
    
 
